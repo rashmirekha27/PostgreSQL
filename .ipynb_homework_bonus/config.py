@@ -1,0 +1,1 @@
+db_url="postgresql://postgres:Nikku2015$$@localhost:5432/EmployeeSQL"

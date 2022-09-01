@@ -21,3 +21,7 @@ Listed the frequency count of employee last names (i.e., how many employees shar
 
 
 Bonus:
+
+Examined the data,if the dataset is fake. Created a visualization of the data by Importing the SQL database into Pandas. 
+Created a histogram to visualize the most common salary ranges for employees
+Created a bar chart of average salary by title.
